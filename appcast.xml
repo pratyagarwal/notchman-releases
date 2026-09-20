@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>NotchMan</title>
+    <link>https://notchman.com</link>
+    <description>NotchMan updates</description>
+    <item>
+      <title>NotchMan 0.1.2</title>
+      <pubDate>Sun, 20 Sep 2026 15:57:33 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>NotchMan 0.1.2</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.1.2/NotchMan-0.1.2.dmg" sparkle:edSignature="fJ5pZuhmoK93C9uyovH3ViQk6q3GeO0B9fTsoZwBnwYz80SZswLWYsiNfIoWxIPkS5rYPc82CGu54L344OntAQ==" length="3877968" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
