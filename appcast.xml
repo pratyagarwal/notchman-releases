@@ -5,6 +5,18 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.2.2</title>
+      <pubDate>Sat, 26 Sep 2026 12:05:42 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Reminders at the Notch level now arrive with a ripple: the notch springs open, rings of light spread from it with a soft drip, and it holds still until you deal with it.</li>
+<li>Water reminders use the notch too: a drop, blue ripples, and how much you've had today. Log a glass and it clears.</li>
+<li>Repeat a reminder every 30 minutes, every hour, every 2 hours, every day, on weekdays, weekly, or on the days you pick. Typing "stretch every hour" works too.</li>
+<li>Fixed: "standup every weekday 9:30" typed in the afternoon was set for 9:30 PM.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.2.2/NotchMan-0.2.2.dmg" sparkle:edSignature="L/KkQOJuzXkvgIStkkC7WPLoampcA2G/KUc3e+UeGhNVIjFrV5sIOSmpdgx6/THIG5YNZqn5fHwPwmx0OfYeBQ==" length="5322183" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.2.1</title>
       <pubDate>Sat, 26 Sep 2026 11:10:52 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
