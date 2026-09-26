@@ -5,6 +5,19 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.2.0</title>
+      <pubDate>Sat, 26 Sep 2026 10:31:38 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New look. Every tool is redrawn to match the new notchman: Aeonik type, hairlines instead of boxes, square buttons, and one white bar marking whatever is selected.</li>
+<li>The tools are in a new order that follows a working day — Plan, Work, Focus, Capture, You — with a hairline between each group in the dock.</li>
+<li>Colour now means something: violet for what's live or next, orange only for bad news. Your own calendar and habit colours stay as small dots.</li>
+<li>Fixed: Revenue could count the same payment more than once, so its totals climbed every time you opened it. Existing duplicates are cleared on first launch.</li>
+<li>The full-screen reminder now blurs your desktop behind it instead of going solid black.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.2.0/NotchMan-0.2.0.dmg" sparkle:edSignature="1FSciPJK2WveyxBd1SnLOnDR7KFDITQoM3XrUqEFno1Sk7FA2ebQqkYWSAOS/1TmdR1wxlM4NqR6JHpQWAvwCA==" length="5152349" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.1.8</title>
       <pubDate>Wed, 23 Sep 2026 02:49:19 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
