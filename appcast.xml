@@ -5,6 +5,16 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.2.1</title>
+      <pubDate>Sat, 26 Sep 2026 11:10:52 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New app icon: the notchman mark on graphite, to match the new look.</li>
+<li>The installer window is redrawn in the new style too.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.2.1/NotchMan-0.2.1.dmg" sparkle:edSignature="Wed2ByYfAXxV9bdDet2cuCJuiS24ZLLv37JLSFk1sP006DHEaC2HvCjm+Tlrd2lDt791j7jECmYTViSKqXw+BQ==" length="5251559" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.2.0</title>
       <pubDate>Sat, 26 Sep 2026 10:31:38 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
