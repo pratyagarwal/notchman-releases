@@ -5,6 +5,17 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.3</title>
+      <pubDate>Sun, 27 Sep 2026 23:26:42 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dictation's notch is smaller: just ✕, your voice and ✓ either side of the notch, sitting nearly flush with it. Voice notes (⌥⌘J) match.</li>
+<li>Your voice now shows as a sound wave rippling out from the notch, swelling as you talk and breathing gently when you pause.</li>
+<li>The bar that floats over the open panel while you dictate or record is slimmer too.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.3/NotchMan-0.3.3.dmg" sparkle:edSignature="p3yfJQzmED8ElVCFn33orUEZWr6u+3mjpPQxf20U+gLVauXsLfHI8CuReriVhIVKqdgznUEZ7Zm/RJQRhiyiDQ==" length="5774362" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.2</title>
       <pubDate>Sun, 27 Sep 2026 21:53:05 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
