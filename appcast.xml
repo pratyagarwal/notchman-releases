@@ -5,6 +5,20 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.0</title>
+      <pubDate>Sun, 27 Sep 2026 19:58:55 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New: Dictation. Press ⌥⌘K anywhere, talk, press ⌥⌘K again, and your words land where the cursor is, cleaned up: fillers gone, corrections kept, punctuation in. Speech is turned into text on your Mac and tidied by Apple Intelligence; nothing leaves it. Add names and terms under Your words so they're spelled right. History and settings live in the new Dictation tab.</li>
+<li>New: Notes replaces the Scratchpad, and your Scratchpad text is the first note. Text notes and voice notes in one list, with titles, pinning, folders and tags, and search across everything, including what you said.</li>
+<li>New: voice notes. Record in Notes, or press ⌥⌘J from any app. They're transcribed on your Mac, named for you, and play back with a waveform and 1.5×/2× speed.</li>
+<li>Reminders are now two levels: the notch, or a takeover that turns every screen black with a ripple from the middle until you act. Ignore the notch for five minutes with Escalate on and it takes over. Your Notification reminders move to the notch and Alarm reminders to the takeover.</li>
+<li>Fixed: Hours showed 0 after stopping a clock, and could later record entries many hours long. Totals now split at midnight and count the running clock live.</li>
+<li>Fixed: a new task wasn't selected after adding it.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.0/NotchMan-0.3.0.dmg" sparkle:edSignature="qwTgKtyK1RiDGx+5kXyiEZeaGMHmWugeSohvlgJt/whR8w/GeuMRA1cfX4zC+I7Iv1jIpJLkqcnLCTY36V+9Dg==" length="5753700" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.2.2</title>
       <pubDate>Sat, 26 Sep 2026 12:05:42 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
