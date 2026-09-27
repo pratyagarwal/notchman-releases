@@ -5,6 +5,16 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.1</title>
+      <pubDate>Sun, 27 Sep 2026 21:24:19 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Revenue shows everything in US dollars: each Dodo Payments sale is counted at what Dodo settles to you (and Lemon Squeezy at its USD total), with what the customer paid in their own currency shown beside it. No more rupees and Australian dollars added together at face value.</li>
+<li>Updates arrive within a minute of release: the notch opens once to tell you what's new, with Update now or Later; after that the Update button stays in the header.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.1/NotchMan-0.3.1.dmg" sparkle:edSignature="sCVfS0udr18MntloZnyjH8rPu8ZGl8yWXKeE4iPXgWUSELYPgb2kCS4kKDMV1tyWXI88yyK7pdxcph943QLdBQ==" length="5786118" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.0</title>
       <pubDate>Sun, 27 Sep 2026 19:58:55 +0000</pubDate>
       <sparkle:version>13</sparkle:version>
