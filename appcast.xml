@@ -5,6 +5,16 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.2</title>
+      <pubDate>Sun, 27 Sep 2026 21:53:05 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed: Revenue could still show rupees and Australian dollars after updating to 0.3.1, from amounts saved before the update. Those are cleared, and Revenue shows US dollars as soon as you open it.</li>
+<li>Habits are simpler: no more automatic habits that filled in from Hydration, Breathe, Pomodoros or Hours. Any you had are now ordinary habits you tick off, with their history kept.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.2/NotchMan-0.3.2.dmg" sparkle:edSignature="JjHnZAVLI3NkVyCpyb5XBMjVOM5D5Ns1P0HjL6fPBt0V3JGN/OicIDWE6PWzlHQH0ZoBE+/2usZbKBKlGnnbCw==" length="5772199" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.1</title>
       <pubDate>Sun, 27 Sep 2026 21:24:19 +0000</pubDate>
       <sparkle:version>14</sparkle:version>
