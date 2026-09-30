@@ -5,6 +5,17 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.6</title>
+      <pubDate>Wed, 30 Sep 2026 06:23:58 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dictation now works on macOS 14 and 15: Pro voice does the transcription, so you don't need macOS 26. The setup and the Dictation tab show your minutes, and if you're offline or out of minutes, the notch says so straight away.</li>
+<li>Your words are never lost: if the connection drops mid-dictation, notchman tries once more, and if that fails too, it keeps the recording in Notes.</li>
+<li>On macOS 26, if the speech model still needs downloading or doesn't support your language, you can use Pro voice instead.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.6/NotchMan-0.3.6.dmg" sparkle:edSignature="ZrfS4TINv0H0RiMedwb1URfo05RLZDv7Ljhpkjo7QOTQP89gTJ/Pb6iBFV48b2sFCYdkf9ZwPPAwwp24AIyCBg==" length="5881979" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.5</title>
       <pubDate>Wed, 30 Sep 2026 05:10:10 +0000</pubDate>
       <sparkle:version>18</sparkle:version>
