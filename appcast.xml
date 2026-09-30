@@ -5,6 +5,17 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.7</title>
+      <pubDate>Wed, 30 Sep 2026 23:21:21 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New: Transform. Select or copy some text in any app and press ⌥⌘L: fix grammar, make it shorter, more formal or friendlier, turn it into bullet points, translate it, or draft a reply, or just say what you want. The result streams into the notch; Replace puts it over your selection.</li>
+<li>Transforms run on Apple Intelligence on your Mac for free, or on Pro for longer and trickier text (and on Macs without Apple Intelligence). Pro transforms count the words you transform: your license includes 5,000 words, and the Pro pack now adds 500 minutes of Pro voice and 50,000 words.</li>
+<li>A new Transform tab keeps your recent transforms: the result, what you asked, the app and when. Click one for the original, Copy to use it again. It stays on your Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.7/NotchMan-0.3.7.dmg" sparkle:edSignature="3m8fFRwTDYOYLAmc52+PvW2pleqKSvbOTapaq4F7bcEDRHo9GPMWOSyvL8F6cmmTJ3JMeR70De0WQFyOWvj+Dw==" length="6061457" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.6</title>
       <pubDate>Wed, 30 Sep 2026 06:23:58 +0000</pubDate>
       <sparkle:version>19</sparkle:version>
