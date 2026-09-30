@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.5</title>
+      <pubDate>Wed, 30 Sep 2026 05:10:10 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New: Pro voice for Dictation. Switch it on in the Dictation tab for sharper transcription of names, accents and fast talk; your words go along so they come out right. Your license includes 60 minutes, and more are a Top up away (500 minutes for $9, never expire). If you're offline or out of minutes, your Mac transcribes instead. On this Mac stays the default.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.5/NotchMan-0.3.5.dmg" sparkle:edSignature="tqe4asTE0vRIwl5Xhvq6UYtR4SBFydyVaimW1p35iXImHa0UC0fLluUl3IVfAwy57AVjckwl6/eqXLROrt9oAg==" length="5850457" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.4</title>
       <pubDate>Sun, 27 Sep 2026 23:46:22 +0000</pubDate>
       <sparkle:version>17</sparkle:version>
