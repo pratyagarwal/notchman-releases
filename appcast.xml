@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.8</title>
+      <pubDate>Wed, 30 Sep 2026 23:40:34 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed: ⌥⌘L now reads your selection in every app, including Chrome, Slack, VS Code and Notion, which don't share it with macOS directly: notchman copies it for you and puts your clipboard back as it was.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.8/NotchMan-0.3.8.dmg" sparkle:edSignature="mA/UXCEyQewudr0wkfImgqs5zagav6AYlKxCm2a70PQt66OXBxi+pVsxyezPX4IZ7CIpPtPmbBNGE8DllPl7Dw==" length="6065084" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.7</title>
       <pubDate>Wed, 30 Sep 2026 23:21:21 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
