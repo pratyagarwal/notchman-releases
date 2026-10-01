@@ -5,6 +5,19 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.4.1</title>
+      <pubDate>Thu, 01 Oct 2026 05:13:13 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>⌃⌘V anywhere: your clipboard history opens right where you're typing. Pinned clips first, then the latest; 1–9 pastes, type to search, P pins; rest the pointer on a clip (or press Space) to preview it.</li>
+<li>Pictures and screenshots are kept too, and found by the words in them (read on your Mac). Colours show as colours; every clip says which app it came from.</li>
+<li>The Clipboard tab is now visual: clips as cards, filters, click to paste it where you were (or set it to copy), hover to see it big, and drag any card into any app.</li>
+<li>Privacy: passwords, API keys, tokens and card numbers are never kept; ignore apps you choose; pause for an hour; keep history for 7, 30 or 90 days, or forever (your existing history is kept).</li>
+<li>Paste or copy: picking a clip pastes it where your cursor is; switch it to copy in the ⌃⌘V menu (press C) or the Clipboard tab.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.4.1/NotchMan-0.4.1.dmg" sparkle:edSignature="ESgpCY+Cn0JQuQCymEtNhp/buZg5SCr7AA8rjXyGD3ui4OfOXBdbsJ7mKDLrIx+/72EuHL6y6t4iWcmMEivLCQ==" length="6534934" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.4.0</title>
       <pubDate>Thu, 01 Oct 2026 02:39:36 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
