@@ -5,6 +5,17 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.9</title>
+      <pubDate>Thu, 01 Oct 2026 00:16:55 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Your own prompts for ⌥⌘L: save the instructions you use often in the Transform tab (or straight from your history with Save as prompt). They join the menu after the built-ins, on keys 8 and 9, and you can hide the built-ins you don't use.</li>
+<li>Fixed: Type your own… in the ⌥⌘L menu now takes your typing.</li>
+<li>Dictation and Transform get their own highlighted spot in the tab bar, and the Transform tab now matches Dictation, with a Pro transforms card.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.9/NotchMan-0.3.9.dmg" sparkle:edSignature="4yLfpqEqMxIBN+1sHhAbZU1NmsHIy8Q7Gi0v2Uk+ceb94ZaoJLOFZAFbxvrQziJBQdBjh3kcjzkAwqCc0X1uAw==" length="6125782" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.8</title>
       <pubDate>Wed, 30 Sep 2026 23:40:34 +0000</pubDate>
       <sparkle:version>21</sparkle:version>
