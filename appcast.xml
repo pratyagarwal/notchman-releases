@@ -5,6 +5,18 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.4.0</title>
+      <pubDate>Thu, 01 Oct 2026 02:39:36 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Now Playing in the notch: while music plays (Spotify, Apple Music, YouTube in a browser, podcasts, any app), the notch shows the album art and moving bars in the album's colour, and peeks the title and artist when the song changes.</li>
+<li>A new Now Playing tab: big art, a progress bar you can drag, previous / play-pause / next (Space, ← and → too). Click the notch while music plays and it opens here.</li>
+<li>Choose what shows: music in the notch, the peek, how long paused music stays, and apps to ignore. Dictation, recordings and reminders always come first.</li>
+<li>Fixed: switches everywhere in notchman can be turned on with a click anywhere on the row (clicking an off switch sometimes did nothing).</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.4.0/NotchMan-0.4.0.dmg" sparkle:edSignature="TUSUll5fUWPLvlRvvWP7eNGOuwM4TUAaoHKmIwnNQv1X5pxfslYdHAKNZp1CbVNE8MMx9ojCrlmTn0gAc24PAQ==" length="6364982" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.12</title>
       <pubDate>Thu, 01 Oct 2026 01:16:08 +0000</pubDate>
       <sparkle:version>25</sparkle:version>
