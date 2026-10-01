@@ -5,6 +5,16 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.3.11</title>
+      <pubDate>Thu, 01 Oct 2026 00:49:29 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed: a transform you type yourself now replaces your selection, like the quick actions (it was only copied).</li>
+<li>Replace or Copy: the ⌥⌘L menu has a Then switch (press C) to just copy the result and leave your text as it is. notchman remembers your choice; it's also in the Transform tab.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.3.11/NotchMan-0.3.11.dmg" sparkle:edSignature="djQRhAavSt2ZK0WAljWY9TBsjMrE5LiSrkl/+NlZJhPaev4VZ3KHIRYihCsnT6F6Uz8NvxkT3mMxSlT3HNoPDw==" length="6147526" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.3.10</title>
       <pubDate>Thu, 01 Oct 2026 00:34:05 +0000</pubDate>
       <sparkle:version>23</sparkle:version>
