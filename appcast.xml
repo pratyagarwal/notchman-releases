@@ -5,6 +5,20 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.5.0</title>
+      <pubDate>Thu, 01 Oct 2026 11:32:42 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Now Playing sings along: the line being sung shows under the notch and fills with the album's colour, karaoke-style. Open the notch for the whole song, the current line highlighted; click any line to jump there. Lyrics come from lrclib.net (only the song's title, artist, album and length are sent) and are kept on your Mac. Songs with untimed lyrics follow along with estimated timing.</li>
+<li>Hover the notch while music plays for the song and ⏮ ⏯ ⏭, right there; stay a moment, or click the art, to open the panel.</li>
+<li>An ambient glow in the album's colour around the notch while music plays. It never gets in the way of a click, and it's not shown over full-screen video.</li>
+<li>History: the songs you played in the last 30 days, on this Mac. Copy one, or find it again in Spotify, Music or YouTube.</li>
+<li>Each of these has its own switch in Now Playing › Settings.</li>
+<li>Transform is now called Rewrite: same shortcut (⌥⌘L), same rewrites and your saved prompts, with a clearer name. The tab is Rewrite and Pro transforms are Pro rewrites; your history, prompts and words are all where you left them.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.5.0/NotchMan-0.5.0.dmg" sparkle:edSignature="vPYTCftAQ8/tQVK1aREGxnTu4aRcJBWH9iRqkFT2Q8Q1y4Jg19oHvt24kbZ/HhMhRYz2NKMG5hSGIfVhxwgcCg==" length="6681563" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.4.1</title>
       <pubDate>Thu, 01 Oct 2026 05:13:13 +0000</pubDate>
       <sparkle:version>27</sparkle:version>
