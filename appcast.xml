@@ -5,6 +5,21 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.7.0</title>
+      <pubDate>Sat, 03 Oct 2026 15:26:30 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Revenue now connects seven stores: Stripe, Shopify, Lemon Squeezy, Gumroad, Dodo Payments, Polar and Paddle. Every sale is added up in one total, in US dollars or a currency you pick, and each one shows its store's logo.</li>
+<li>Today, 7 days or 30 days: the change on the period before, your best day, and a bar a day split by store. Pick one store to see only its sales.</li>
+<li>Connecting a store tests the key before saving it, and says what to fix if it doesn't work. Test-mode and sandbox keys work too.</li>
+<li>Today's total in the closed notch if you want it, and a quick peek there with the store's logo for each new sale.</li>
+<li>The eye hides every amount, in the tab and the notch. Keep out of recordings (in ···) hides Revenue from screen shares, like the Teleprompter.</li>
+<li>If a store can't be reached, its last good figures stay in the total and its logo gets an orange dot until you fix it.</li>
+<li>Fixed: a refunded Polar, Dodo or Lemon Squeezy sale took money off your total instead of netting to nothing, and a partial Polar refund counted as the whole order.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.7.0/NotchMan-0.7.0.dmg" sparkle:edSignature="NQ+TEIa66AIH0qfOcfTV1lWq4FQfNt1KjudoDY+Yx4JI8tE/YQupKCXaSxWtFsIqoM406gVtkc9J3NJEuTyCAw==" length="7061830" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.6.1</title>
       <pubDate>Sat, 03 Oct 2026 10:37:20 +0000</pubDate>
       <sparkle:version>31</sparkle:version>
