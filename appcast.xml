@@ -5,6 +5,16 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.6.1</title>
+      <pubDate>Sat, 03 Oct 2026 10:37:20 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed: notchman could quit when you switched from a resized Teleprompter to another tab.</li>
+<li>Switching tabs after the Teleprompter no longer makes the notch jump or close. It stays hidden from recordings until it closes, then shows in them again.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.6.1/NotchMan-0.6.1.dmg" sparkle:edSignature="iZcmVSi4vSdhrBT+KcQN0RVUhta07mCakZhIloQeyHL3LMsvtqcvt17yozUO4z2O6KBV0CK5a1kN7G66IATEBA==" length="6799152" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.6.0</title>
       <pubDate>Sat, 03 Oct 2026 07:56:13 +0000</pubDate>
       <sparkle:version>30</sparkle:version>
