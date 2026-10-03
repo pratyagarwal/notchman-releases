@@ -5,6 +5,21 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.6.0</title>
+      <pubDate>Sat, 03 Oct 2026 07:56:13 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New: Teleprompter. Paste your script and it scrolls right under your camera while you record, so you're looking at the lens, not at a second window. A countdown, a speed you can change as you go, three text sizes, and it remembers where you stopped.</li>
+<li>It stays out of your recordings and screen shares: QuickTime, ⇧⌘5 and the many apps that record or share through macOS see what's behind it, not your script. The eye in the tab turns that off; Settings › Recordings and screen sharing can also hide all of notchman, so a clipboard or a note stays private on a call.</li>
+<li>Hands-free: ⌥⌘P opens it and plays or pauses from any app; while it reads, ⌥⌘↑ and ⌥⌘↓ change the speed and ⌥⌘← goes back a line.</li>
+<li>Drag the bar under the script, like a video, to jump to any part and redo it; or scroll to it.</li>
+<li>Make it see-through, down to clear, so the screen behind shows. While it plays, only the words show.</li>
+<li>Drag its bottom edge to make it taller, or a slim strip under the camera.</li>
+<li>Pin it and work behind it: clicks and typing go through to the app underneath. Point at the notch to reach the controls.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.6.0/NotchMan-0.6.0.dmg" sparkle:edSignature="h7QcFq35zoxxICnHWvEsTMeZJPUXPr8dpjD8hL6zP+k8J1yPHr4Uies4tWY9fY4BJM/rlNfealvR4flb7eaeCg==" length="6796225" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.5.0</title>
       <pubDate>Thu, 01 Oct 2026 11:32:42 +0000</pubDate>
       <sparkle:version>29</sparkle:version>
