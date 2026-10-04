@@ -5,6 +5,22 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.0</title>
+      <pubDate>Sun, 04 Oct 2026 08:41:39 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New: AI usage (it replaces the Claude tab). Your Claude and Codex session and weekly limits against an even pace, when they reset, what's likely left or when you'll run out, plus today's tokens and what they'd cost on the API. Optional warnings in the closed notch at 80% and 95% and when you're on pace to run out.</li>
+<li>New: Mirror. A quick camera check before a call, mirrored or as others see you, zoom up to 4×, and a pop-out window you can drag and resize. The camera is on only while you're looking.</li>
+<li>Clipboard: snippets. Save a text with a short code like ;addr and typing the code anywhere turns it into the text. Find them in ⌃⌘V by typing ;.</li>
+<li>Clipboard: ⌃⌘T grabs text from anywhere on screen, even in a video or a picture. And → in ⌃⌘V pastes a clip as UPPERCASE, lowercase, Title Case, Sentence case or one line.</li>
+<li>Calendar: pick any date. A week strip with a dot on busy days, a month to jump anywhere, and a summary of the day you pick: how busy, the longest free gap, calls.</li>
+<li>Charts in Revenue and AI usage: hover a day for its numbers, click it for the detail.</li>
+<li>Revenue: a key a store has refused now says so, and stores are easy to disconnect (Manage or disconnect stores…).</li>
+<li>Settings has a new look, and the notch can now open and close with a click instead of hover (Settings › Opening).</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.0/NotchMan-0.8.0.dmg" sparkle:edSignature="sMnNs+EngG6jZRSqR/WoksNZ0tzVTa9qGuYZzrEJvxjxx8TzUPHjSiTZ9r4DRCjAZxNdrP1lBIVOnzDNJkBvDg==" length="7803895" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.7.0</title>
       <pubDate>Sat, 03 Oct 2026 15:26:30 +0000</pubDate>
       <sparkle:version>32</sparkle:version>
