@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.5</title>
+      <pubDate>Tue, 06 Oct 2026 07:55:44 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix: Update now no longer gets stuck on "Restarting notchman…". If an update ever can't restart by itself, the card offers Quit & finish the update.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.5/NotchMan-0.8.5.dmg" sparkle:edSignature="EJKhnHMD78yi7/cwdldJ2h/BlTCW3YqtObQhQ2Be/dCrSL61jonjndHXj5Cqh63/a8AcLc6kxp96nAjvtxMwCg==" length="7893610" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.4</title>
       <pubDate>Tue, 06 Oct 2026 07:00:30 +0000</pubDate>
       <sparkle:version>37</sparkle:version>
