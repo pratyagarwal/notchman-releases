@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.6</title>
+      <pubDate>Tue, 06 Oct 2026 08:14:55 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A small maintenance update, to check that updating is one click from here on: Update now, and notchman restarts by itself.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.6/NotchMan-0.8.6.dmg" sparkle:edSignature="zlzS199auYMNNPJas1Pj7BIf8TeeOY/BgSTz76bLffoJyqPzwAfSUx3mgUDQgnIp9JOiFT+7B8f5BGOlcpHGDw==" length="7893620" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.5</title>
       <pubDate>Tue, 06 Oct 2026 07:55:44 +0000</pubDate>
       <sparkle:version>38</sparkle:version>
