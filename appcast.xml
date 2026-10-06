@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.4</title>
+      <pubDate>Tue, 06 Oct 2026 07:00:30 +0000</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Revenue: disconnecting a store works again, right in the notch. It asks in place (no window that closed with the notch), and Undo puts the store back for a few seconds after.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.4/NotchMan-0.8.4.dmg" sparkle:edSignature="AV0MkBqY7GD5sziEPfDzWKIuLiVsaNIMZTpOgoCvi+l9T5IMt3QKG/Pl5NaZ5PN0lSfJ0vR7Tfap5MpHEgeGDQ==" length="7886890" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.3</title>
       <pubDate>Tue, 06 Oct 2026 06:38:11 +0000</pubDate>
       <sparkle:version>36</sparkle:version>
