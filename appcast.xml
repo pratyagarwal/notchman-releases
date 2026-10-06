@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.9</title>
+      <pubDate>Tue, 06 Oct 2026 14:16:25 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.8.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Grab text and the Clipboard's search inside pictures now read any language they see, including Chinese, Japanese, Korean, Arabic, Hindi and Thai (before, only languages written in Latin or Cyrillic letters came through).</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.9/NotchMan-0.8.9.dmg" sparkle:edSignature="9emPmB07vsUqpxH28V26MQqs8tf9cVBYZIVtXtOlOz5zxzD3W23PbGSvQb2QB8kKqKNnEKdga6hWur/Mn2zXBg==" length="7903208" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.8</title>
       <pubDate>Tue, 06 Oct 2026 13:18:41 +0000</pubDate>
       <sparkle:version>41</sparkle:version>
