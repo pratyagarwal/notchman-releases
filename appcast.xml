@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.2</title>
+      <pubDate>Tue, 06 Oct 2026 06:08:11 +0000</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix: picking a clip in the notch's Clipboard tab pastes where your cursor was again, even after you searched in the tab.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.2/NotchMan-0.8.2.dmg" sparkle:edSignature="I/IQI+o4ayUZyttv4NtPG6iB6OBQ7bATk+qC67KYo1X5cfH+0SSNRBCe50aakigKmK4T5JluIGfTyIwvy/YeAw==" length="7839041" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.1</title>
       <pubDate>Tue, 06 Oct 2026 05:03:13 +0000</pubDate>
       <sparkle:version>34</sparkle:version>
