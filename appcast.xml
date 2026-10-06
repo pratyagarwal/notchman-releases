@@ -5,6 +5,15 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.8.1</title>
+      <pubDate>Tue, 06 Oct 2026 05:03:13 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Grab text (⌃⌘T): hold ⌥ to draw around text that bends or tilts, or click once to take just one line. The screen freezes while you choose, so a playing video holds still, and the words you grabbed light up for a moment.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.8.1/NotchMan-0.8.1.dmg" sparkle:edSignature="SrV5jpso2e/qVPk+6MxbcVbKA+sKQw+8cgplAQHxq0EF1kM6QF1Uctsz3Vuxiim69zRyR2MoiUFdpGZhw9G6CQ==" length="7838098" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.0</title>
       <pubDate>Sun, 04 Oct 2026 08:41:39 +0000</pubDate>
       <sparkle:version>33</sparkle:version>
