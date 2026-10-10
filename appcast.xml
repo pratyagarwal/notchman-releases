@@ -5,6 +5,20 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.9.0</title>
+      <pubDate>Sat, 10 Oct 2026 14:38:32 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>No account needed. notchman unlocks with the license key from your receipt email, and one key works on up to three Macs. Already bought notchman? Paste your key and it unlocks.</li>
+<li>After you buy, one click on the thank-you page opens notchman and unlocks it, with nothing to copy or paste.</li>
+<li>One price, paid once, unlocks every tool. There's no free version, no trial and no subscription.</li>
+<li>AI Chat, Dictation (⌥⌘K) and Rewrite (⌥⌘L) are included. They run on your Mac: what you say and write isn't sent anywhere. They need macOS 26, and AI Chat and Rewrite also need Apple Intelligence turned on.</li>
+<li>The dock along the bottom shows the tools you've pinned, plus All tools for everything else.</li>
+<li>Settings › License shows your key (only its last four characters) and can deactivate this Mac to free it for another one.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.9.0/NotchMan-0.9.0.dmg" sparkle:edSignature="Rd+ZrreEXo+oCUaNC0PgiBrG/ga7SfucHT1sZ5jz7o1yDPs790q7ze4HQn75l5DVApM4SkMnRGiXGbYuTUMnAw==" length="7944308" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.8.9</title>
       <pubDate>Tue, 06 Oct 2026 14:16:25 +0000</pubDate>
       <sparkle:version>42</sparkle:version>
