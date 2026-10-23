@@ -5,6 +5,16 @@
     <link>https://notchman.com</link>
     <description>NotchMan updates</description>
     <item>
+      <title>NotchMan 0.9.1</title>
+      <pubDate>Fri, 23 Oct 2026 13:37:59 +0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI Usage no longer keeps asking to use Claude Code's Keychain item. Claude Code renews its sign-in every few hours, and each renewal made macOS ask notchman again. notchman now reads it the way Claude Code itself does, so there's no prompt, and if macOS ever does need your OK again, AI Usage shows an Allow again button instead of a popup appearing out of nowhere.</li>
+<li>The buy screen shows the right price: $4.99, paid once.</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/notchman-releases/releases/download/v0.9.1/NotchMan-0.9.1.dmg" sparkle:edSignature="QaLrTEHWuVAS1yzx8Gx0NWhhCjZAH8+jJw0MPjGAj02xplHO3UlaEAh9DwJeQV3I08alJg5Ivu5CRoQpS7/aAA==" length="7951109" type="application/octet-stream" />
+    </item>
+    <item>
       <title>NotchMan 0.9.0</title>
       <pubDate>Sat, 10 Oct 2026 14:38:32 +0000</pubDate>
       <sparkle:version>43</sparkle:version>
